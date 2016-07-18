@@ -1,0 +1,71 @@
+html, body {
+	margin: 0px;
+	//font-family: 'Coming Soon', cursive;
+	font-family: 'Ubuntu', sans-serif;
+	background-color: #ECF0F1;
+}
+
+a, a:visited {
+	color: inherit !important;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+ .delete-bt {
+ 	color: red !important;
+ }
+
+.header-background-color {
+	background-color: #3B653D;
+}
+
+.header-text-color {
+	color: #FCFFF5;
+}
+
+.large-padding {
+	padding: 10px 5px;
+}
+
+.no-margin {
+	margin: 0px;
+}
+
+.field {
+	margin-top: 1em;
+}
+
+.form-control {
+	border: none;
+	border-bottom: 1px solid;
+	outline: none;
+	width: 100%;
+	display: block;
+	padding: 10px 0px;
+	font-size: 1.2em;
+}
+
+.top-space {
+	margin-top: 0.5em;
+}
+
+.btn {
+ 	background-color: inherit;
+ 	border: none;
+ 	outline: none;
+ 	cursor: pointer;
+ 	background-color: #3B653D;
+ 	color: #FCFFF5;
+ }
+
+
+
+
+
+
+
+
+
+
